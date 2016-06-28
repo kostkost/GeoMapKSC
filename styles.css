@@ -257,6 +257,12 @@ _:-ms-input-placeholder, :root .demo-graph {
   padding: 0 40px;
   display: none;
 }
+.mdl-navigation__level2 {
+  display: none;
+}
+.demo-navigation .mdl-navigation__level1 .material-icons {
+  color: #57C3B6 !important;
+}
 
 select {
   border-bottom-left-radius: 0px !important;
